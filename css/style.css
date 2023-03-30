@@ -1,0 +1,13 @@
+*{
+    text-align: center;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+}
